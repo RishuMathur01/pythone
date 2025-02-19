@@ -1,2 +1,2 @@
-# pythone
+# python
 RestAPI with python
